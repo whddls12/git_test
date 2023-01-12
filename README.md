@@ -4,4 +4,4 @@ git diff 변경사항 확인?
 
 git commit -m "commit message"
 
-GitHub에 등록하려면 git push origin main
+원격 저장소에 업로드 git push origin main
